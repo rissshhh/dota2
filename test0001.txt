@@ -1,0 +1,15 @@
+<div class="blogCapsuleEntry" style='background-image: url("https://clan.cloudflare.steamstatic.com/images/3703047/8256a7d97ebed00f8e77c4834f9306d08976e15c.png");'>
+
+<div class="fade" style="background: linear-gradient(rgba(19, 23, 28, 0) 60%, rgba(19, 23, 28, 0.733) 70%, rgb(19, 23, 28) 90%);"></div>
+
+<div class="blogCapsuleDesc">
+    Мы только что выпустили обновление 7.35d (Chen получил по заслугам), 
+    а вместе с ним — новые функции. За прошлый год мы предприняли различные 
+    заметные меры против читеров.
+</div>
+<div class="blogCapsuleTitle">
+    Обновление 7.35d и новые функции подбора игры
+</div>
+<div class="blogCapsuleDate">
+    22 марта 2024 г.
+</div>
